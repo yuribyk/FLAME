@@ -1,2 +1,2 @@
 # FLAME
-teenagers use this for finding relation between a girl and boy
+teenagers use this for finding relation between a girl and a boy
